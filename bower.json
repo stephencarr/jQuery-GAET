@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "main": "jquery.gaet.js",
   "ignore": [
-    ".jshintrc",
-    "**/*.txt"
+    "**/.*",
+    "node_modules",
+    "components"
   ],
   "dependencies": {
     "jquery": ">= 1.7.0"
