@@ -14,6 +14,10 @@
       $.extend(settings, options);
     }
 
+    var _gaq = _gaq || {};
+
+    var ga = ga || {};
+
     return this.each(function() {
 
       var $this = $(this);
