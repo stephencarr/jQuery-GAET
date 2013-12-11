@@ -12,7 +12,7 @@ Add event tracking to clickable elements by simply providing data attributes in 
 ```
 
 ```javascript
-$('a').gaet({});
+$('a').gaet();
 ```
 
 ## Configuration
