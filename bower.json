@@ -1,0 +1,12 @@
+{
+  "name": "jquery-gaet",
+  "version": "1.0.0",
+  "main": "jquery.gaet.js",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt"
+  ],
+  "dependencies": {
+    "jquery": ">= 1.7.0"
+  }
+}
