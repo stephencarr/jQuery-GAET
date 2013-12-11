@@ -7,13 +7,15 @@ A jQuery plugin to automatically add Google Analytics Event Tracking to elements
 
 Add event tracking to clickable elements by simply providing data attributes in the markup.
 
-```
+```html
 <a href="http://example.com" data-category="category-1" data-action="action-1">Link</a>
 ```
 
+```javascript
+$('a').gaet({});
 ```
-$('a').gaet();
-```
+
+## Configuration
 
 The plugin accepts an options object with the following parameters:
 
